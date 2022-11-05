@@ -959,10 +959,10 @@ Utiliza las referencias de los breakpoints @media abajo */
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 12px 16px;
-    width: 133px;
-    height: 40px;
+    width: 180px;
+    height: 80px;
     background: #2A7AE4;
+    padding-top: 2px 0;
 }   
 
 /*Footer*/
